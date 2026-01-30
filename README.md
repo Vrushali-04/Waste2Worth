@@ -49,7 +49,7 @@ Accessible and SEO-friendly structure
 🎨 CSS3
 Responsive layout design
 Mobile-friendly UI
-Modern styling techniques (Flexbox / Grid if used)
+Modern styling techniques
 
 🔹 Backend & Cloud Services
 🔥 Firebase

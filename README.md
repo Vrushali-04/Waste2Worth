@@ -16,6 +16,7 @@ Waste2Worth is a full-stack sustainable waste management platform designed to tr
 
 6.By digitizing the recycling ecosystem, Waste2Worth bridges the gap between waste generators and recyclers, ensuring efficient resource utilization.
 
+
 🔄 Core Platform Modules: 
 
 ♻️ Recycle Module
@@ -42,6 +43,7 @@ Activity tracking per user
 🛠️ Technology Stack: 
 
 🔹 Frontend Technologies
+
 ⚛️ React.js (with TypeScript)
 The frontend of Waste2Worth is developed using React.js with TypeScript, enabling a strongly-typed, scalable, and maintainable component-based architecture.
 Functional components with hooks
@@ -82,5 +84,7 @@ Project Structure Overview:
 Development Tools:
 
 Git & GitHub (Version control)
+
 VS Code (Development environment)
+
 Firebase CLI (Deployment & configuration)

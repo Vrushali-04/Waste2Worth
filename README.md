@@ -68,15 +68,7 @@ Controlled access using security rules
 
 Project Structure Overview
 
-Frontend/
-│
-├── components/
-├── pages/
-├── services/
-├── firebase config
-│
-firebase.json
-.firebaserc
+<img width="247" height="280" alt="Screenshot 2026-01-30 122254" src="https://github.com/user-attachments/assets/a996b5fc-f764-440d-97e0-df4092f822bf" />
 
 Development Tools
 Git & GitHub (Version control)

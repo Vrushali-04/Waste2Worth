@@ -67,8 +67,7 @@ Efficient file handling and retrieval
 Controlled access using security rules
 
 Project Structure Overview
-
-<img width="247" height="280" alt="Screenshot 2026-01-30 122254" src="https://github.com/user-attachments/assets/a996b5fc-f764-440d-97e0-df4092f822bf" />
+<img width="727" height="271" alt="Screenshot 2026-02-05 104637" src="https://github.com/user-attachments/assets/04ee9057-da4b-44f5-8ea9-37d6bd1428c2" />
 
 Development Tools
 Git & GitHub (Version control)

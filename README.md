@@ -4,6 +4,7 @@ Waste2Worth is a full-stack sustainable waste management platform designed to tr
 
 📌 System Overview
 1.The platform provides a structured digital marketplace where users can:
+
 2.Categorize waste materials (plastic, paper, metal, e-waste, organic, etc.)
 3.Upload recyclable items for resale
 4.Browse and purchase reusable materials
